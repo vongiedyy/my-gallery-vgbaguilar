@@ -1,4 +1,4 @@
-import PhotoCard from '../components/PhotoCard'; // Import the new PhotoCard
+import PhotoCard from '../components/PhotoCard';
 
 const photos = [
   {
@@ -52,7 +52,7 @@ const photos = [
  },
   {
     id: 9,
-    url: '/photos/ateneo1.JPG',
+    url: '/photos/ateneo1.jpg',
     title: 'Ateneo Finster',
     description: 'First ever DSLR photo of Ateneo I captured.',
   },

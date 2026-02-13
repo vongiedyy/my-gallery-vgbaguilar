@@ -1,4 +1,4 @@
-import Image from 'next/image'; // <-- This is the missing piece!
+import Image from 'next/image';
 
 interface PhotoProps {
   photo: {

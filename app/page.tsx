@@ -52,7 +52,7 @@ const photos = [
  },
   {
     id: 9,
-    url: '/photos/ateneo1.jpg',
+    url: '/photos/ateneo1.JPG',
     title: 'Ateneo Finster',
     description: 'First ever DSLR photo of Ateneo I captured.',
   },

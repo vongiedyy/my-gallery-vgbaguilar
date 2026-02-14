@@ -11,7 +11,7 @@ const photos = [
     id: 2,
     url: '/photos/jolla.JPEG',
     title: 'Jolla Conol',
-    description: 'This picture is for fun.',
+    description: 'This photo is for fun.',
   },
     {
     id: 3,
@@ -29,7 +29,7 @@ const photos = [
     id: 5,
     url: '/photos/boracay1.jpg',
     title: 'Boracay Escaped',
-    description: 'Sunset shot of a small both on the sea in Boracay.',
+    description: 'Sunset shot of small boats on the sea in Boracay.',
   },
   {
     id: 6,

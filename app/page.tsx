@@ -22,7 +22,7 @@ const photos = [
     {
     id: 4,
     url: '/photos/hongkong4.jpg',
-    title: 'Disneyland 2',
+    title: 'Disneyland Carousel',
     description: 'Carousel long exposure shot in Disneyland.',
   },
     {
@@ -52,7 +52,7 @@ const photos = [
  },
   {
     id: 9,
-    url: '/photos/ateneo1.jpg',
+    url: '/photos/ateneo1.JPG',
     title: 'Ateneo Finster',
     description: 'First ever DSLR photo of Ateneo I captured.',
   },

@@ -9,14 +9,14 @@ const photos = [
   },
    {
     id: 2,
-    url: '/photos/hongkong5.JPG',
-    title: 'Disneyland 2',
-    description: 'Long exposure shot of the castle on Disneyland',
+    url: '/photos/jolla.JPEG',
+    title: 'Jolla Conol',
+    description: 'This picture is for fun.',
   },
     {
     id: 3,
     url: '/photos/car1.jpg',
-    title: 'Vios Meet-Up - Tagum',
+    title: 'Vios Meet-Up - Tagusm',
     description: 'First ever freelance work as a photographer.',
   },
     {
@@ -52,7 +52,7 @@ const photos = [
  },
   {
     id: 9,
-    url: '/photos/ateneo1.JPG',
+    url: '/photos/ateneo1.jpg',
     title: 'Ateneo Finster',
     description: 'First ever DSLR photo of Ateneo I captured.',
   },
